@@ -9,6 +9,7 @@ public class HomePage {
     //navigation menu
 
     // home page updated with logo
+    //uploaded logo image
 
 
 }
