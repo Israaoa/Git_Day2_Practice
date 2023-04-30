@@ -11,5 +11,8 @@ public class HomePage {
     // home page updated with logo
     //uploaded logo image
 
+    // add more stuff
+    // merging to the master
+
 
 }
