@@ -7,4 +7,6 @@ public class ContactPage {
 
     //Youtube
     //email
+    
+    //link to link page
 }
